@@ -2,7 +2,7 @@ certifi==2017.4.17
 chardet==3.0.3
 cssselect==1.0.1
 idna==2.5
-lxml==3.7.3
+lxml==4.6.2
 pyquery==1.2.17
 requests==2.17.3
 urllib3==1.21.1
